@@ -10,7 +10,7 @@
 
 import React, { Component } from "react";
 
-class AnimalSpotter extends Component {
+class animalSpotter extends Component {
   constructor(props) {
     super(props);
     this.state = {};
